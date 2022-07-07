@@ -1,0 +1,49 @@
+
+---Downloaded files---
+The import files for: Software Company Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/gecko_web/wordpress
+Data file = C:\xampp\htdocs\gecko_web\wordpress/wp-content/uploads/rara-demo-pack/software-company-demo-content/content/softwarecompany.xml
+Widget file = C:\xampp\htdocs\gecko_web\wordpress/wp-content/uploads/rara-demo-pack/software-company-demo-content/content/softwarecompany.wie
+Customizer file = C:\xampp\htdocs\gecko_web\wordpress/wp-content/uploads/rara-demo-pack/software-company-demo-content/content/softwarecompany.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 6
+
